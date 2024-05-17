@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/harshil8981/HPfile_to_link",
+  "repository": "https://github.com/harshil8981/file_to_link",
   "success_url": "/",
-  "logo": "https://telegra.ph/file/ef427bcafe8a1422a5f2b.jpg",
-  "website": "https://t.me/Hp_botupdate",
+  "logo": "https://telegra.ph/file/752b82b354a911c261be4.jpg",
+  "website": "https://t.me/movie_providing_group",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
